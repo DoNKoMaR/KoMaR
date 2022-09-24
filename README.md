@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <P align="center">
 <img src="https://64.media.tumblr.com/2539d481fd5f91c2a9748fdf18c17375/tumblr_n9y114IdTc1sxpnovo1_500.gifv" width="400" height="230"/>
 </p>
