@@ -1,16 +1,45 @@
-# The LoliBot-MD ✨
+<<<<<<< HEAD
+<P align="center">
+<img src="https://64.media.tumblr.com/2539d481fd5f91c2a9748fdf18c17375/tumblr_n9y114IdTc1sxpnovo1_500.gifv" width="400" height="230"/>
+</p>
+<P align="center">
+<br>
+<p align="center">
+<a href="#"><img title="WhatsApp-Bot-MD" src="https://img.shields.io/badge/-AZAZEL--BOT--BY ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://tinyurl.com/2p9kb7yd"><img title="Autora" src="https://img.shields.io/badge/Autor-☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣-orange?style=for-the-badge&logo=github"></a>
+</p>
+</details>
+</p>
+=======
+# ☣ⓀⓞⓂⓐⓇ BoT☣ ✨
+>>>>>>> 18380ce5119f66cbea1d7e8abbc1a9d1c75c347d
 
-### —◉ 𝗗𝘂𝗱𝗮 𝘀𝗼𝗯𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁?
-𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗺𝗲 ✨ 
+## Características del bot 
+|  Funciones y comandos  |                                           Sip |
+| :---------------------------------------------: | :-----------: |
+| Crea stickers|✔️|
+| Bienvenida automática|✔️|
+| Anti-Link|✔️|
+| Anti-Fakes|✔️|
+| Anti-Estranjeros|✔️|
+| Modo Publico/Privado|✔️|
+| Descarga de música/videos|✔️|
+| Más funciones en adelante|♻️|
 
+<<<<<<< HEAD
+## Instalacion
+Para nuevos desde cero en termux:
+=======
 <a href="http://wa.me/79773452127" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
-[![blog](https://img.shields.io/badge/Grupo-lolibot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/DgzoifnqGE3A4ZmfapvflE)  <a href="https://chat.whatsapp.com/DgzoifnqGE3A4ZmfapvflE"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+[![blog](https://img.shields.io/badge/GrupoПродажа бота дёшево-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+)](https://chat.whatsapp.com/FZ9LENww6Co9ESkyF3QgVz) <a href="https://chat.whatsapp.com/FZ9LENww6Co9ESkyF3QgVz"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
-[![blog](https://img.shields.io/badge/Grupo2-lolibot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/IJmvzc45SVg1lbErQqysc8) <a href="https://chat.whatsapp.com/IJmvzc45SVg1lbErQqysc8"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+[![blog](https://img.shields.io/badge/Grupo2-Тест Ботов-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+)](https://chat.whatsapp.com/LTLuGNRI30VHffhgfZqinq) <a href="https://chat.whatsapp.com/LTLuGNRI30VHffhgfZqinq"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
 -----
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
@@ -27,54 +56,60 @@
 -----
 
 ### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗
+>>>>>>> 18380ce5119f66cbea1d7e8abbc1a9d1c75c347d
 ```bash
-𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎::
-
 > termux-setup-storage
-> apt update 
-> pkg upgrade 
-> pkg install git -y
-> pkg install nodejs -y
+(Dan permiso a su almacenamiento)
+> termux-change-repo
+(Seleccionan todas las opciones que les aparescan en la primera ventana || En la segunda ventana seleccionan la opcion que contenga las palabras 'termux.mentality.rip' )
+> apt update -y && apt upgrade -y
+> pkg install git
+> pkg install nodejs
+> pkg install libwebp -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
+<<<<<<< HEAD
+
+```
+## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
+```bash
 > git clone https://github.com/DoNKoMaR/KoMaR
-> cd KoMaR
+> cd KoMaR 
+> yarn
+=======
+> git clone https://github.com/DoNKoMaR/KoMa005
+> cd KoMa005
 > npm install
 > yarn install 
 > npm install
 > npm update
 >  ls
+>>>>>>> 18380ce5119f66cbea1d7e8abbc1a9d1c75c347d
 > npm start
-```
-----    
-###  AJUSTE <img src="https://i.pinimg.com/originals/98/1b/e2/981be28d3ec7b85bfb797a5f9e6a01c2.png" height="32px">
-- 𝐂𝐋𝐎𝐍𝐀𝐑 𝐄𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 [`𝐀𝐪𝐮𝐢`](https://github.com/DoNKoMaR/KoMaR/fork)
-----  
 
-### 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐂𝐀𝐒𝐎 𝐃𝐄 𝐃𝐄𝐓𝐄𝐍𝐄𝐑𝐒𝐄 <img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="30px">
+Para detener al bot en termux:
+> Ctrl+c
+```
+
+## Comentarios ó sugerencias :3
+
+<a href="https://wa.me/79773452127"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
 ```bash
-𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
-> cd 
-> cd The-LoliBot-MD
-> npm start
+> Si encuentran algun error me comentan ;)
 ```
-----
 
-### 𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑 <img src="http://4.bp.blogspot.com/-mFQY5cKLkQ0/U0kwKQn5RzI/AAAAAAAADk0/FDOXxWZ9grU/s1600/QR-code-color.png" height="30px">
-```bash
-𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
-> cd 
-> cd The-LoliBot-MD
-> rm -rf session.data.json
-> npm start
-```
-----
+## Agradecido con el de arriba y a estos cracks :3
 
+<<<<<<< HEAD
+* <a href="https://github.com/DoNKoMaR"><img alt="GitHub" src="https://img.shields.io/badge/DoNKoMaR%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+* <a href="https://github.com/s1995s1"><img alt="GitHub" src="https://img.shields.io/badge/s1995s1%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+</p>
+=======
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
 
-<p align="hihg">   
-<a href="https://dash.boxmineworld.com" target="_blank"> <img src="https://img.shields.io/badge/-boxmine-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
+<img src="https://64.media.tumblr.com/2539d481fd5f91c2a9748fdf18c17375/tumblr_n9y114IdTc1sxpnovo1_500.gifv" alt="GIF" width="520" height="240"/>
 
 ----
 ### 🟣 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐇𝐄𝐑𝐎𝐊𝐔
@@ -93,28 +128,35 @@
 ```
 -----
   
-### `—◉ 📝 𝐍𝐎𝐓𝐀 📝`
+### `—◉ 📝 ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣ 📝`
 ```bash
-🔸𝐄𝐒𝐓𝐄 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐏𝐮𝐁𝐋𝐈𝐂𝐀 𝐋𝐀 𝐕𝐄𝐑𝐒𝐈𝐎́𝐍 𝐀𝐂𝐓𝐔𝐀𝐋|𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 𝐓𝐡𝐄 𝐋𝐎𝐋𝐈𝐁𝐎𝐓-𝐌𝐃
-🔸𝐄𝐒 𝐏𝐎𝐒𝐈𝐁𝐋𝐄 𝐐𝐔𝐄 𝐄𝐋 𝐁𝐎𝐓 𝐓𝐄𝐍𝐆𝐀 𝐀𝐋𝐆𝐔𝐍𝐀𝐒 𝐅𝐀𝐋𝐋𝐀𝐒, 𝐒𝐄 𝐈𝐑𝐀𝐍 𝐒𝐎𝐋𝐔𝐂𝐈𝐎𝐍𝐀𝐍𝐃𝐎 𝐂𝐎𝐍𝐅𝐎𝐑𝐌𝐄 𝐒𝐄 𝐕𝐀𝐘𝐀𝐍 𝐃𝐄𝐓𝐄𝐂𝐓𝐀𝐍𝐃𝐎
-🔸𝐒𝐈 𝐕𝐀𝐒 𝐀 𝐄𝐃𝐈𝐓𝐀𝐑 𝐏𝐎𝐑 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐎 𝐃𝐄𝐉𝐀 𝐋𝐎𝐒 𝐂𝐑𝐄𝐃𝐈𝐓𝐎𝐒 𝐃𝐄𝐋 𝐁𝐎𝐓 
-🔸𝐄𝐋 𝐁𝐎𝐓 𝐄𝐒 𝐂𝐎𝐌𝐏𝐀𝐑𝐓𝐈𝐁𝐋𝐄 𝐂𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐍𝐎𝐑𝐌𝐀𝐋 𝐎 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒
-🔸𝐀𝐓𝐄𝐍𝐓𝐎 𝐀 𝐋𝐀𝐒 𝐀𝐂𝐓𝐔𝐀𝐋𝐈𝐙𝐀𝐂𝐈𝐎𝐍𝐄𝐒 𝐐𝐔𝐄 𝐒𝐄 𝐇𝐀𝐆𝐀𝐍 𝐄𝐍 𝐄𝐒𝐓𝐄 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎
-🔸𝐄𝐋 𝐀𝐃𝐃 𝐘 𝐄𝐋 𝐊𝐈𝐂𝐊 𝐏𝐔𝐄𝐃𝐄𝐍 𝐎𝐂𝐀𝐒𝐈𝐎𝐍𝐀𝐑 𝐐𝐔𝐄 𝐄𝐋 𝐍𝐔𝐌𝐄𝐑𝐎 𝐒𝐄 𝐕𝐀𝐘𝐀 𝐀 𝐒𝐎𝐏𝐎𝐑𝐓𝐄 𝐏𝐎𝐑 𝐄𝐋𝐋𝐎 𝐒𝐄 𝐀𝐂𝐓𝐈𝐕𝐀 𝐂𝐎𝐍 #𝐞𝐧𝐚𝐛𝐥𝐞 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐭 
-🔸𝐓𝐡𝐞 𝐋𝐨𝐥𝐢𝐁𝐨𝐭-𝐌𝐃, 𝐍𝐎 𝐒𝐄 𝐇𝐀𝐂𝐄 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐀𝐁𝐋𝐄 𝐃𝐄𝐋 𝐔𝐒𝐎, 𝐍𝐔𝐌𝐄𝐑𝐎𝐒, 𝐏𝐑𝐈𝐕𝐀𝐂𝐈𝐃𝐀𝐃 𝐘 𝐂𝐎𝐍𝐓𝐄𝐍𝐈𝐃𝐎 𝐌𝐀𝐍𝐃𝐀𝐃𝐎, 𝐔𝐒𝐀𝐃𝐎 𝐎 𝐆𝐄𝐒𝐓𝐈𝐎𝐍𝐀𝐃𝐎 𝐏𝐎𝐑 𝐔𝐒𝐓𝐄𝐃𝐄𝐒 𝐎 𝐄𝐋 𝐁𝐎𝐓.
+🔸
+В ЭТОМ РЕПОЗИТОРИИ ПУБЛИКУЕТСЯ ТЕКУЩАЯ ВЕРСИЯ| ОФИЦИАЛЬНОЕ ЛИЦО ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣
+- ВОЗМОЖНО, ЧТО БОТ ИМЕЕТ КАКИЕ-ТО НЕДОСТАТКИ, ОНИ БУДУТ РЕШЕНЫ ПО мере их обнаружения
+- РЕКОМЕНДУЕТСЯ ПРОЧИТАТЬ ВСЁ МЕНЮ И ПОСМОТРЕТЬ ДЕЙСТВИЕ КАЖДОЙ ИЗ КОМАНД
+- СООБЩАТЬ О ЛЮБОЙ ОШИБКЕ С ПОМОЩЬЮ КОМАНДЫ ОТЧЕТА
+- ЧТОБЫ СМОТРЕТЬ QR-КОД, ВЫ ДОЛЖНЫ БЫТЬ УЧАСТНИКОМ ВЕРСИИ ДЛЯ НЕСКОЛЬКИХ УСТРОЙСТВ (БЕТА) WHATSAPP
+- НЕ ИЗМЕНЯЙТЕ НИЧЕГО, ЧТО ВЫ НЕ ЗНАЕТЕ, ДЛЯ ЧЕГО ЭТО ПРЕДНАЗНАЧЕНО, ВО ИЗБЕЖАНИЕ ПРОБЛЕМ ИЛИ ОШИБОК
+- ЕСЛИ СОБИРАЕТЕСЬ РЕДАКТИРОВАТЬ, ПОЛНОСТЬЮ ОСТАВЬТЕ ТРЕДИТЫ БОТА
+- БОТ МОЖНО ПОДЕЛИТЬСЯ ЧЕРЕЗ НОРМАЛЬНЫЙ ИЛИ БИЗНЕС WHATSAPP
+- ВНИМАНИЕ НА ОБНОВЛЕНИЯ, КОТОРЫЕ ПРОИЗВОДЯТСЯ В ЭТОМ РЕПОЗИТОРИИ
+- ДОБАВЛЕНИЕ И УДАЛЕНИЕ НОМЕРА МОЖЕТ ПЕРЕЙТИ В ПОДДЕРЖКУ
+- БОТ РАБОТАЕТ, ДАЖЕ ЕСЛИ WHATSAPP НЕТ ПОДКЛЮЧЕНИЯ
+- РЕКОМЕНДУЕТСЯ ПОВТОРНО СКАНИРОВАТЬ QR-КОД КАЖДЫЕ 2 ДНЯ, ВО ИЗБЕЖАНИЕ ПРОБЛЕМ ИЛИ ОШИБОК.
 ```
 ----
-## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
+## `ВЛАДЕЛЕЦ БОТА  И РЕДАКТОР` 
+<a href="https://github.com/DoNKoMaR"><img src="https://github.com/DoNKoMaR.png" width="300" height="300" alt="DoNKoMaR"/></a>
 
-`The LoliBot-MD _ Byelrebelde`
+`☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣`
 
 ----
 
-### 🌟 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨
+### 🌟 Благодарность
  
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+[![DoNKoMaR](https://github.com/DoNKoMaR.png?size=100)](https://github.com/DoNKoMaR) 
 
-### 🌟 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨
+### 🌟 Благодарность
  
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
+[![DoNKoMaR](https://github.com/DoNKoMaR.png?size=100)](https://github.com/https:/DoNKoMaR) 
+>>>>>>> 18380ce5119f66cbea1d7e8abbc1a9d1c75c347d

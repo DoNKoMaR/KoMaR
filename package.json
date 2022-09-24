@@ -1,57 +1,59 @@
 {
-    "name": "The KoMaR Bot",
-    "version": "1.2.27",
-    "description": "Super Bot WhatsApp",
-    "main": "index.js",
+    "name": "AzaZelBot",
+    "version": "1.0.0",
+    "description": "WhatsApp bot AzaZel versión Multidevice :3",
+    "main": "nkbot.js",
     "type": "module",
     "directories": {
         "lib": "lib",
-        "src": "src",
+        "multimedia": "multimedia",
         "plugins": "plugins"
     },
     "scripts": {
-        "start": "node index.js",
+        "start": "node nkbot.js",
         "test": "node test.js",
-        "test2": "nodemon index.js"
+        "test2": "nodemon nkbot.js"
     },
-    "homepage": "https://github.com/DoNKoMaR",
+    "keywords": [
+        "termux-whatsapp-bot",
+        "multi-device",
+        "MD",
+        "baileys-md"
+    ],
+    "homepage": "https://github.com/DoNKoMaR/KoMa005",
     "author": {
-        "name": "DoNKoMaR"
+        "name": "AzaZel"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DoNKoMaR/KoMaR.git"
+        "url": "git+https://github.com/DoNKoMaR/KoMa005.git"
     },
     "bugs": {
-        "url": "https://github.com/DoNKoMaR/KoMaR/issues"
+        "url": "https://github.com/DoNKoMaR/KoMa005/issues"
     },
-    "license": "GPL-3.0-or-later",
+    "license": "GNU",
     "dependencies": {
         "@adiwajshing/baileys": "^4.4.0",
+        "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^3.0.0",
-        "acrcloud": "^1.4.0",
         "awesome-phonenumber": "^2.68.0",
         "axios": "^0.24.0",
-        "brainly-scraper-v2": "*",
         "cfonts": "^2.10.0",
         "chalk": "^5.0.0",
         "cheerio": "^1.0.0-rc.10",
         "colors": "1.4.0",
-        "emoji-api": "^1.0.2",
         "express": "^4.17.3",
         "file-type": "^17.1.1",
         "fluent-ffmpeg": "^2.1.2",
-        "fs": "^0.0.1-security",
         "formdata-node": "^4.3.2",
-        "glob-fs": "^0.1.7",
         "human-readable": "^0.2.1",
-        "hxz-api": "^1.0.1",
+        "jimp": "^0.16.1",
         "jsdom": "^19.0.0",
         "link-preview-js": "^2.1.13",
         "lodash": "^4.17.21",
         "lowdb": "^3.0.0",
-        "moment-timezone": "^0.5.34",
         "mongoose": "^6.3.3",
+        "moment-timezone": "^0.5.34",
         "node-fetch": "^3.2.0",
         "node-gtts": "^2.0.2",
         "node-webpmux": "^3.1.1",
@@ -65,11 +67,10 @@
         "socket.io": "^4.4.1",
         "syntax-error": "^1.4.0",
         "terminal-image": "^2.0.0",
-        "translate-google-api": "^1.0.4",
         "url-regex-safe": "^3.0.0",
-        "wa-sticker-formatter": "^4.3.2",
-        "fg-ig": "^0.0.1",
-        "yargs": "^17.3.1",
-        "yt-search": "^2.10.3"
+        "yargs": "^17.3.1"
+    },
+    "optionalDependencies": {
+        "wa-sticker-formatter": "^4.3.2"
     }
 }
