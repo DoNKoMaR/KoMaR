@@ -81,7 +81,7 @@ Para detener al bot en termux:
 > Ctrl+c
 ```
 
-## Comentarios ó sugerencias :3
+## Комментарии или предложения :3
 
 <a href="https://wa.me/79773452127"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
