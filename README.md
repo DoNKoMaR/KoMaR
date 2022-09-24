@@ -14,7 +14,7 @@
 </p>
 =======
 # ☣ⓀⓞⓂⓐⓇ BoT☣ ✨
->>>>>>> 18380ce5119f66cbea1d7e8abbc1a9d1c75c347d
+
 
 ## Características del bot 
 |  Funciones y comandos  |                                           Sip |
@@ -28,7 +28,6 @@
 | Descarga de música/videos|✔️|
 | Más funciones en adelante|♻️|
 
-<<<<<<< HEAD
 ## Instalacion
 Para nuevos desde cero en termux:
 =======
@@ -56,7 +55,6 @@ Para nuevos desde cero en termux:
 -----
 
 ### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗
->>>>>>> 18380ce5119f66cbea1d7e8abbc1a9d1c75c347d
 ```bash
 > termux-setup-storage
 (Dan permiso a su almacenamiento)
@@ -74,8 +72,8 @@ Para nuevos desde cero en termux:
 ```
 ## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
 ```bash
-> git clone https://github.com/Yesenia57/NekosmicBot-MD 
-> cd NekosmicBot-MD 
+> git clone https://github.com/DoNKoMaR/KoMaR 
+> cd KoMaR
 > yarn
 > npm start
 
