@@ -20,16 +20,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/DoNKoMaR/KoMa005",
+    "homepage": "https://github.com/DoNKoMaR/KoMaR",
     "author": {
         "name": "AzaZel"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DoNKoMaR/KoMa005.git"
+        "url": "git+https://github.com/DoNKoMaR/KoMaR.git"
     },
     "bugs": {
-        "url": "https://github.com/DoNKoMaR/KoMa005/issues"
+        "url": "https://github.com/DoNKoMaR/KoMaR/issues"
     },
     "license": "GNU",
     "dependencies": {
